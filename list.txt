@@ -1,0 +1,12 @@
+bots
+COPYRIGHT.txt
+coverage.sh
+docs
+list.txt
+osx-install.txt
+pylint3
+pylint.cfg
+pylint.sh
+README.txt
+requirements.txt
+src
